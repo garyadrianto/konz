@@ -1,2 +1,8 @@
 # konz
 konz project
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xBe952a0CF2F382e3f100fdE48Fe0d8D3e4f256AB'
+quorum: 1
